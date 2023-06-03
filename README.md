@@ -1,4 +1,4 @@
-# Welcome to my profile!😄
+# Learning to build a website 😄
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicovulpus&show_icons=true&theme=radical)
 
