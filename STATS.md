@@ -1,7 +1,5 @@
 # Welcome to my profile!😄
 
-# I`m looking for work and trying to figure out how I can help the community. 
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicovulpus&show_icons=true&theme=radical)
 
 <!--
