@@ -1,7 +1,4 @@
 # Looking for my next project! 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicovulpus&show_icons=true&theme=radical)
-
 # Hi 👋 I am Nicholas Vandremo
 ## Web Developer
 
