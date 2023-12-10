@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Norway
 * ✉️  You can reach me at [nicholas.v.vandremo@gmail.com](mailto:nicholas.v.vandremo@gmail.com)
-* 🧠  I'm currently learning JavaScript
+* 🧠  I'm currently learning HTML , CSS and JavaScript. 
 
 
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=badge&logo=github&logoColor=white)](https://github.com/nicovulpus)
