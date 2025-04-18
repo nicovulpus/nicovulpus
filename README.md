@@ -29,7 +29,7 @@
 |-----------|----------------|
 | 🧱 **Tetris Clone** | A Windows Forms remake of the classic falling-block game, built in C#. Includes hold mechanics, wall kicks, scoring, and level progression. |
 | 🌀 **Chinese Checkers** | A digital version of the strategic board game. Custom board rendering, node-based movement, and piece logic in progress. |
-| 📍 RESTful API - Location Tracker | Built with .NET ASP.NET Core and C#, this API tracks user locations and identifies other users currently at the same address. |
+| 📍 **RESTful API - Location Tracker** | Built with .NET ASP.NET Core and C#, this API tracks user locations and identifies other users currently at the same address. |
 
 ---
 
