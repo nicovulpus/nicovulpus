@@ -31,6 +31,7 @@
 | 🌀 **Chinese Checkers** | A digital version of the strategic board game. Custom board rendering, node-based movement, and piece logic in progress. |
 | 📍 **RESTful API - Location Tracker** | Built with .NET ASP.NET Core and C#, this API tracks user locations and identifies other users currently at the same address. |
 | 💬 **ChatApp - CLI** | A simple, centralized chat application built with .NET for learning and experimenting with server-client architecture. |
+| 📈 **Stock Market Simulator** | A fully functional website for simulating a stock market.|
 
 ---
 
