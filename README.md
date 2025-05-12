@@ -20,6 +20,7 @@
 
 - 💻 **Languages**: HTML, CSS, JavaScript, Python, C, C#
 - ⚙️ **Tools**: Git, GitHub, Visual Studio, VSCode
+- ➕ **Mathematics**: Calculus
 
 ---
 
