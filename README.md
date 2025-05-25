@@ -38,8 +38,7 @@
 
 ## 🌱 Currently Learning
 
-- React & React Native ⚛️
-- Data structures and algorithms 📊
+- Calculus
 - Clean architecture in C# 🏗️
 
 ---
