@@ -28,7 +28,7 @@
 
 | 🎮 Project | 📋 Description |
 |-----------|----------------|
-| 🌐 **Portfolio Website using Blazor** | Check it out at https://www.vandremo.com |
+| 🌐 **Portfolio Website using Blazor** | Check it out at https://www.vandremo.com ( Including Tetris, Stock Market Simulator )|
 
 ---
 
