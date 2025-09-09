@@ -29,6 +29,8 @@
 | 🎮 Project | 📋 Description |
 |-----------|----------------|
 | 🌐 **Portfolio Website using Blazor** | Check it out at https://www.vandremo.com ( Including Tetris, Stock Market Simulator )|
+| 📒 **Moccounting** | A fully operational accounting system by Norwegian standards ( Current Project ) |
+| 🏦 **Iso20022Bank** | A mock banking system. ISO20022. ( Next project) |
 
 ---
 
